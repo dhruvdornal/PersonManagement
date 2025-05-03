@@ -1,7 +1,10 @@
-Person Management System
+# Person Management System
+
 A responsive single-page Progressive Web Application built with React for managing person records with CRUD operations and interactive animations.
+
 Live Demo: https://person-management--jet.vercel.app/
-Features
+
+## Features
 
 Progressive Web App (PWA) - Installable, works offline, and provides app-like experience
 CRUD Operations - Create, read, update, and delete person records
@@ -11,7 +14,7 @@ Interactive Animations - Smooth animations and transitions on the home page
 State Management - Efficient and scalable state management
 Clean Architecture - Well-organized, maintainable, and scalable code structure
 
-Tech Stack
+## Tech Stack
 
 Frontend Framework: React.js with React Router for navigation
 Styling: Tailwind CSS
@@ -20,13 +23,13 @@ Form Handling: React Hook Form with validation
 State Management: React Context API/Redux
 Deployment: Vercel
 
-Components
+## Components
 
 Person-home - Landing page with interactive animations
 Person-list - Displays all person records with options to edit and delete
 Person-add - Form to add new person records with validation
 
-Form Validation Rules
+## Form Validation Rules
 
 First Name & Last Name: No special characters allowed
 Email: Standard email validation
